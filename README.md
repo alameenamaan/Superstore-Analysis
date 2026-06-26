@@ -3,7 +3,53 @@
 ## 👥 Team: Analytics Avengers
 
 ## 🛠️ Tools Used
-- Microsoft Excel (Pivot Tables & Pivot Charts)
+- Microsoft Excel (Microsoft Excel, Power Query Editor, Pivot Tables & Pivot Charts)
+
+## 📌 Summary
+
+This project is a comprehensive sales analysis of a Superstore dataset covering the period 2014 to 2017. The analysis was carried out using Microsoft Excel, Power Query Editor, Pivot Tables & Pivot Charts. 
+
+The dataset was structured across multiple sheets:
+
+### Main Order
+The original dataset containing all uncleaned sales records. This was cleaned and transformed to produce the Fact Order 
+and all Dimension tables.
+
+
+
+![Main Order](images/mainorder.png)
+
+### Fact Order
+Main transaction data containing all sales records
+
+![Fact Order](images/factorder.png)
+
+
+
+### Dim Customer
+Customer details including names and segments
+
+![Dim Customer](images/dimcustomer.png)
+
+
+
+### Dim Product
+Product information including category and sub-category
+
+![Dim Product](images/dimproduct.png)
+
+
+### Dim Ship
+Shipping details including ship mode and dates
+
+![Dim Ship](images/dimship.png)
+
+
+### Dim Geography
+Location and regional data
+
+![Dim Geography](images/dimgeography.png)
+
 
 ## 💡 Insights from Analysis
 
@@ -62,6 +108,16 @@
 ![Loss-making Products](images/lossmakingproduct.png)
 
 
+## 📊 Dashoboard
+The dashboard below provides a visual summary of all key metrics and findings from the analysis.
+
+![Dashboard](dashboard/dashboard1.png)
+![](dashboard/dashboard2.png)
+
+
+
+
+
 ## ✅ Recommendations
 
 - Furniture category should be reviewed — consider repricing or discontinuing low-margin products to reduce profit leakage.
@@ -73,7 +129,8 @@
 
 ## 📝 Conclusion
 
-This analysis reveals that while the Superstore business is growing steadily from 2014 to 2017, there are clear areas of profit leakage particularly in the Furniture category. Technology remains the strongest performer across 
+This analysis reveals that while the Superstore business is growing steadily from 2014 to 2017, there are clear areas of profit leakage particularly in the Furniture category. 
+Technology remains the strongest performer across 
 all metrics. 
 With the right pricing strategy and regional focus, the business has strong potential for even greater profitability.
 
