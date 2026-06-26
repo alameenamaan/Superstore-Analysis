@@ -120,7 +120,7 @@ The dashboard below provides a visual summary of all key metrics and findings fr
 
 ## ✅ Recommendations
 
-- Furniture category should be reviewed — consider repricing or discontinuing low-margin products to reduce profit leakage.
+- Furniture category should be reviewed therefore consider repricing or discontinuing low-margin products to reduce profit leakage.
 - Technology category should be prioritized as it consistently delivers the highest profit with minimal discounting.
 - South region needs a targeted sales strategy to close the gap with the West and East regions.
 - Office Supplies discounting should be reviewed and controlled to protect profit margins
