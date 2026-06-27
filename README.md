@@ -134,8 +134,15 @@ $54,789.00 in profit.
 ![Top Performing Customers](images/topperformingcustomers.png)
 
 ### 12. Regional Product Performance
-- South region led in Office Supplies profit ($31,310.51) 
-and Technology ($17,447.85)
+- East region led in Technology profit ($31,310.51), Office Supplies ($22,895.48) but lost money in Furniture (-$1,760.35)
+- West region performed well across all categories, Furniture ($6,428.71), Office Supplies ($23,543.88) and Technology ($17,447.85)
+- South region had moderate performance, Furniture ($3,875.61), Office Supplies ($8,659.02), 
+Technology ($763.02)
+- Central region had Technology profit ($12,646.19) but lost money in Furniture (-$974.79)
+- Furniture made losses in both East (-$1,760.35) and Central (-$974.79) regions
+- Office Supplies was the most consistently profitable category across all regions
+
+- and Technology ($17,447.85)
 - East region had negative profit for Furniture (-$1,760.35)  meaning Furniture is losing money in the East
 - Central region also had negative Furniture profit (-$974.79)confirming Furniture is a problem across multiple regions
 - West region performed well in Office Supplies ($23,543.88) 
