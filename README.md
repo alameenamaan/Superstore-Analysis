@@ -158,32 +158,20 @@ The dashboard below provides a visual summary of all key metrics and findings fr
 ## ✅ Recommendations
 
 - Furniture category should be reviewed urgently, it is making losses in Central and East regions specifically. Consider repricing or discontinuing low-margin furniture products.
-- Office Supplies should be expanded across all regions as it 
-proved to be the most consistent profit performer region by region
-- Technology should also be invested in as it delivers the 
-highest overall profit ($70,157.57).
-- Central region needs immediate attention, it had the lowest 
-profit ($11,357.04) despite decent sales ($246,314.52)
+- Office Supplies should be expanded across all regions as it proved to be the most consistent profit performer region by region
+- Technology should also be invested in as it delivers the highest overall profit ($70,157.57).
+- Central region needs immediate attention, it had the lowest profit ($11,357.04) despite decent sales ($246,314.52)
 - South region should be targeted for growth, it has the lowest sales but surprisingly strong Office Supplies performance
-- Office Supplies discounting should be controlled to protect 
-its profit margins
-- Loss-making products (Bretford Cr4500, Bush Somerset, Acme 
-Scissors) should be evaluated for discontinuation
-- Top performing customers should be retained through loyalty 
-programs as purchases are evenly spread with no dominant customer dominate, purchase are evenly spread across the top 10.
+- Office Supplies discounting should be controlled to protect its profit margins
+- Loss-making products (Bretford Cr4500, Bush Somerset, Acme Scissors) should be evaluated for discontinuation or cost reduction.
+- Top performing customers should be retained through loyalty programs as purchases are evenly spread with no dominant customer dominate, purchase are evenly spread across the top 10.
 
 
 ## 📝 Conclusion
 
 
-This analysis reveals that while the Superstore business is 
-growing steadily from 2014 to 2017, there are clear areas of 
-profit leakage particularly in the Furniture category, 
-especially in the Central and East regions.
-Office Supplies proved to be the most consistent performer 
-across all regions, while Technology delivered the highest 
+This analysis reveals that while the Superstore business is growing steadily from 2014 to 2017, there are clear areas of 
+profit leakage particularly in the Furniture category, especially in the Central and East regions.
+Office Supplies proved to be the most consistent performer across all regions, while Technology delivered the highest 
 overall profit.
-With the right pricing strategy, regional focus, and 
-product decisions, the business has strong potential for 
-even greater profitability.
-
+With the right pricing strategy, regional focus, and product decisions, the business has strong potential for even greater profitability.
